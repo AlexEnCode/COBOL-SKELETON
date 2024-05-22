@@ -1,5 +1,5 @@
            IDENTIFICATION DIVISION.
-           PROGRAM-ID. .
+           PROGRAM-ID. New.
            AUTHOR. AlexEnCode.
 
            ENVIRONMENT DIVISION.
