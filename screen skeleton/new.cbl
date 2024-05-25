@@ -7,8 +7,10 @@
            FILE-CONTROL.
               SELECT InputFile1 ASSIGN TO 'fichier1.dat'
                    ORGANIZATION IS LINE SEQUENTIAL.
+
               SELECT InputFile2 ASSIGN TO 'fichier2.dat'
                    ORGANIZATION IS LINE SEQUENTIAL.
+
               SELECT OutputFile ASSIGN TO 'fichier3.dat'
                    ORGANIZATION IS LINE SEQUENTIAL.
 
