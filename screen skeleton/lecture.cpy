@@ -10,6 +10,7 @@
            MOVE "           ENVIRONMENT DIVISION."                  
            TO SKELETON
            WRITE SKELETON.
+      
            MOVE "           INPUT-OUTPUT SECTION."                  
            TO SKELETON
            WRITE SKELETON.
