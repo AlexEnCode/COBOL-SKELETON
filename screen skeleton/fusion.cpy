@@ -1,6 +1,7 @@
        MOVE "           IDENTIFICATION DIVISION." 
        TO SKELETON
        WRITE SKELETON.
+      
        MOVE "           PROGRAM-ID. ." 
        TO SKELETON
        WRITE SKELETON.
